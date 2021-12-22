@@ -1,6 +1,4 @@
-Esto es un texto de
-ejemplo
-para usar
-
-
-el control de versiones git
+esto
+es
+la
+segunda prueba de la prueba 4
